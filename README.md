@@ -1,17 +1,11 @@
 # **Contributions powered by**
 
 <p align="left">
-<a href="https://tiswww.case.edu/php/chet/bash/bashtop.html">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"  alt="bash" width="35" height="35" hspace="10px"/>
-</a>
 <a href="https://ohmyz.sh/">
 <img src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png"  alt="oh-my-zsh" height="35" hspace="10px"/>
 </a>
 <a href="https://docs.microsoft.com/en-us/powershell/">
 <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg?sanitize=true"  alt="powershell" width="35" height="35" hspace="10px"/>
-</a>
-<a href="https://www.kali.org/">
-<img src="https://www.kali.org//images/kali-logo.svg"  alt="kali-linux" width="35" height="35" hspace="10px"/>
 </a>
 <a href="https://ubuntu.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"  alt="ubuntu-linux" width="35" height="35" hspace="10px"/>
@@ -29,9 +23,10 @@
 
 # **Current interests**
 
-* Cybersecurity
-* Data Analytics solutions
-* Vertical SaaS
+- Data Science & Analytics
+- Cybersecurity
+- OSINT in Capital Markets
+- ML & AI
 
 # **How to reach me**
 
