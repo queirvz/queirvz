@@ -32,7 +32,7 @@
 - Data Science & Analytics
 - Cybersecurity
 - OSINT in Capital Markets
-- ML & AI
+- MLAI
 
 ## **how to reach me**
 
