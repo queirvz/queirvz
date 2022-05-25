@@ -1,43 +1,43 @@
-# **contributions powered by**
-
-<p align="left">
-<a href="https://ohmyz.sh/">
-<img src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png"  alt="oh-my-zsh" height="35" hspace="10px"/>
-</a>
-<a href="https://docs.microsoft.com/en-us/windows/wsl/about">
-<img src="https://bendyworks.com/assets/images/blog/2020-05-21-setup-windows-development-eb5c79a7.png"  alt="wsl"  height="35" hspace="10px"/>
-</a>
-<a href="https://docs.microsoft.com/en-us/powershell/">
-<img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg?sanitize=true"  alt="powershell" width="35" height="35" hspace="10px"/>
-</a>
-<a href="https://ubuntu.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"  alt="ubuntu-linux" width="35" height="35" hspace="10px"/>
-</a>
-<a  href="https://code.visualstudio.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35" hspace="10px"/>
-</a>
-<a  href="https://www.python.org">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35" hspace="10px"/>
-</a>
-<a href="https://jupyter.org">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter"  width="35" height="35" hspace="10px"/>
-</a>
-<a href="https://numfocus.org/sponsored-projects?_sft_project_category=python-interface">
-<img src="https://numfocus.org/wp-content/uploads/2018/01/optNumFocus_LRG.png" alt="numfocus"  height="35" hspace="10px"/>
-</a>
-</p>
-
 # **current interests**
 
-- Data Science & Analytics
-- Cybersecurity
-- OSINT in Capital Markets
-- MLAI
+- data science & analytics
+- cybersecurity
+- OSINT in private capital markets
+- MLA
+
+## **contributions powered by**
+
+<p align="left">
+   <a href="https://ohmyz.sh/">
+   <img src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png"  alt="oh-my-zsh" height="35" hspace="10px"/>
+   </a>
+   <a href="https://docs.microsoft.com/en-us/windows/wsl/about">
+   <img src="https://bendyworks.com/assets/images/blog/2020-05-21-setup-windows-development-eb5c79a7.png"  alt="wsl"  height="35" hspace="10px"/>
+   </a>
+   <a href="https://docs.microsoft.com/en-us/powershell/">
+   <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg?sanitize=true"  alt="powershell" width="35" height="35" hspace="10px"/>
+   </a>
+   <a href="https://ubuntu.com/">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"  alt="ubuntu-linux" width="35" height="35" hspace="10px"/>
+   </a>
+   <a  href="https://code.visualstudio.com/">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35" hspace="10px"/>
+   </a>
+   <a  href="https://www.python.org">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35" hspace="10px"/>
+   </a>
+   <a href="https://jupyter.org">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter"  width="35" height="35" hspace="10px"/>
+   </a>
+   <a href="https://numfocus.org/sponsored-projects?_sft_project_category=python-interface">
+   <img src="https://numfocus.org/wp-content/uploads/2018/01/optNumFocus_LRG.png" alt="numfocus"  height="35" hspace="10px"/>
+   </a>
+</p>
 
 ## **how to reach me**
 
 <p align="left">
-<a href="mailto:queirvz@protonmail.ch?subject=reader@github.com%20re: ">
-<img src="https://protonmail.com/images/media/logos/protonmail-logo-dark.svg" alt="protonmail" height="25" width="75" hspace="10px" />
+<a href="mailto:queirvz@protonmail.ch?subject=reader@github.com:%20">
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAxNjQ3IDI4OCIgd2lkdGg9IjE2NDciIGhlaWdodD0iMjg4Ij48cGF0aCBmaWxsPSIjNkQ0QUZGIiBkPSJNLjc1NiAxNy4wNDNjMC02Ljc3NyA3Ljg5OC0xMC40ODQgMTMuMTEtNi4xNTVMMTUxLjc1NyAxMjUuNGMxMy4zMzQgMTEuMDczIDMyLjY2NiAxMS4wNzMgNDUuOTk5IDBsMTM3Ljg5LTExNC41MTJjNS4yMTMtNC4zMyAxMy4xMTEtLjYyMiAxMy4xMTEgNi4xNTVWMjUyYzAgMTkuODgyLTE2LjExOCAzNi0zNiAzNmgtMjc2Yy0xOS44ODIgMC0zNi0xNi4xMTgtMzYtMzZWMTcuMDQzWiIvPjxwYXRoIGZpbGw9InVybCgjYSkiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0ibTIyMS43MzcgMTA1LjQ4NC4wMTkuMDE2LTY5LjQ0MyA2MS4zNDFjLTExLjgyOSAxMC40NDktMjkuNTExIDEwLjcxMy00MS42NDYuNjJMLjc1NiA3Ni4wNTN2LTU5LjAxYzAtNi43NzcgNy44OTgtMTAuNDg0IDEzLjExLTYuMTU1TDE1MS43NTcgMTI1LjRjMTMuMzM0IDExLjA3MyAzMi42NjYgMTEuMDczIDQ1Ljk5OSAwbDIzLjk4Mi0xOS45MTZaIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiLz48cGF0aCBmaWxsPSJ1cmwoI2IpIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0yNzQuNzU2IDYxLjQ1NVYyODhoMzhjMTkuODgyIDAgMzYtMTYuMTE5IDM2LTM2VjE3LjA0M2MwLTYuNzc2LTcuODk4LTEwLjQ4NS0xMy4xMTEtNi4xNTRsLTYwLjg4OSA1MC41NjZaIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiLz48cGF0aCBmaWxsPSIjNkQ0QUZGIiBkPSJNMTIwOC40MyAyMzEuMjUxVjU4LjU4OWg0NC44Mmw0Mi4wMSAxMDMuNTM0YTIzOS4wMTYgMjM5LjAxNiAwIDAgMSA5LjYzIDI2LjU4NWguNDNjMi43LTkuMDM4IDUuOTItMTcuOTE0IDkuNjMtMjYuNTg1bDQyLjAxLTEwMy41MzRoNDQuODJ2MTcyLjY2MmgtMzIuNDlWMTE1LjU2M2MtLjAzLTMuODEuMTUtNy42MTkuNTQtMTEuNDA5aC0uNTRhNzAuNDUyIDcwLjQ1MiAwIDAgMS00LjA1IDExLjkwNmwtNDYuNTYgMTEzLjE2NWgtMjYuODNsLTQ2LjctMTEzLjE2NWExMDAuNjEzIDEwMC42MTMgMCAwIDEtNC4zLTExLjkwNmgtLjVjLjM2IDMuNzkyLjUyIDcuNi41IDExLjQwOXYxMTUuNjg4aC0zMi40MlpNMTUxMi44OCAxMTcuMzRhNTQuOTM2IDU0LjkzNiAwIDAgMSAyMi4zOSAyMS43NTIgNjUuMjY1IDY1LjI2NSAwIDAgMSA4LjE4IDMyLjkxMXY1OS4yNDloLTI4LjQzbC0yLjAzLTE3Ljc3MWEzOS42NjggMzkuNjY4IDAgMCAxLTE1LjcxIDE1LjIxMSA0Ny4wNzIgNDcuMDcyIDAgMCAxLTIyLjc4IDUuMjk2IDU0LjYzIDU0LjYzIDAgMCAxLTI4LjcyLTcuODE5IDU2LjExNiA1Ni4xMTYgMCAwIDEtMjAuNjUtMjIuMDM2IDY3Ljc2MiA2Ny43NjIgMCAwIDEtNy41Ny0zMi40MTQgNjIuMDc4IDYyLjA3OCAwIDAgMSA4LjIxLTMxLjYzMiA1OS4zMzkgNTkuMzM5IDAgMCAxIDIyLjY4LTIyLjI4NSA2NC4zNjYgNjQuMzY2IDAgMCAxIDMxLjk4LTguMTAzIDY3LjcyNiA2Ny43MjYgMCAwIDEgMzIuNDUgNy42NDFabS0xMC40MSA3OS43MmM2LjE4LTUuOSA5LjI0LTE0LjIxNiA5LjI0LTI1LjMwNWEzNC42ODkgMzQuNjg5IDAgMCAwLTguODUtMjQuNjY2IDMwLjkzOSAzMC45MzkgMCAwIDAtMTAuMTktNy4wNTYgMzAuOTIzIDMwLjkyMyAwIDAgMC0yNC4yOSAwIDMwLjk4IDMwLjk4IDAgMCAwLTEwLjIgNy4wNTYgMzguNDggMzguNDggMCAwIDAtOC45MiAyNC42MyAzOC40OCAzOC40OCAwIDAgMCA4LjkyIDI0LjYzIDI5LjYxIDI5LjYxIDAgMCAwIDEwLjE4IDcuMTU3IDI5LjUyOCAyOS41MjggMCAwIDAgMTIuMjIgMi4zMzMgMzAuNDIgMzAuNDIgMCAwIDAgMjEuODktOC43NzlaTTE1NjAuOTcgODcuNTkyYTE4LjM3OCAxOC4zNzggMCAwIDEtNC40Ni02LjI1NSAxOC4yNDcgMTguMjQ3IDAgMCAxLTEuNTEtNy41MzVjLS4wMy0yLjYxLjQ5LTUuMTk3IDEuNTEtNy41OTZhMTguNzk4IDE4Ljc5OCAwIDAgMSA0LjQ2LTYuMzM3YzMuNzgtMy43NTkgOC44OS01Ljg2OSAxNC4yMi01Ljg2OSA1LjMyIDAgMTAuNDQgMi4xMSAxNC4yMSA1Ljg3YTE4LjgyOCAxOC44MjggMCAwIDEgNC40MyA2LjM0NCAxOS4wMDkgMTkuMDA5IDAgMCAxIDEuNTEgNy41ODhjLjAzIDIuNTg2LS40OCA1LjE1LTEuNSA3LjUyNmExOC41NzYgMTguNTc2IDAgMCAxLTQuNDQgNi4yNjQgMjAuNDkyIDIwLjQ5MiAwIDAgMS0xNC4yMSA1LjcyOGMtNS4zMSAwLTEwLjQtMi4wNTMtMTQuMjItNS43MjhabTMwLjI1IDE0My42NmgtMzEuOTlWMTEyLjI1OGgzMS45OXYxMTguOTk0Wk0xNjQ2LjUyIDIzMS4yNTFoLTMxLjk5VjU4LjU4OWgzMS45OXYxNzIuNjYyWiIvPjxwYXRoIGZpbGw9IiMxQjEzNDAiIGQ9Ik01NDQuNTEyIDU4LjE2aC03OS43NTZWMjMwLjkzaDMxLjU5NnYtNDIuODYzYzAtNC4xODUgMS42NjMtOC4xOTkgNC42MjItMTEuMTU5YTE1Ljc4NSAxNS43ODUgMCAwIDEgMTEuMTU5LTQuNjIyaDMyLjM3OWE1Ni44NjQgNTYuODY0IDAgMCAwIDU2Ljg2Ni01Ni44NjcgNTYuODU1IDU2Ljg1NSAwIDAgMC0xNi41MTctNDAuNDYzIDU2Ljg1OSA1Ni44NTkgMCAwIDAtNDAuMzQ5LTE2Ljc5NFptMjQuODc5IDU2Ljg2N2EyNi45NDIgMjYuOTQyIDAgMCAxLTI3LjAxMiAyNi44MzRoLTQ2LjIwNFY4Ny44NzRoNDYuMjA0YTI2Ljk3MyAyNi45NzMgMCAwIDEgMjQuOTIzIDE2LjY1MiAyNi45OSAyNi45OSAwIDAgMSAyLjA1MyAxMC4zMjRsLjAzNi4xNzdaTTYwNi4zNTQgMjMwLjkzMXYtNjguNTI0YzAtMjcuOTcyIDE2LjM0OS01MC4yNTYgNDkuMDEyLTUwLjI1NmE2Mi42NjYgNjIuNjY2IDAgMCAxIDE1LjYwMiAxLjc0MXYyOC4yMmMtMy43MzEtLjI0OS03LjEwOC0uMjQ5LTguNDIzLS4yNDktMTcuMzA5IDAtMjQuODc5IDcuODkxLTI0Ljg3OSAyMy45OTF2NjUuMDc3aC0zMS4zMTJaTTY4MC4zNTMgMTcyLjc4NmMwLTM0LjQwNSAyNS45ODEtNjAuNjM1IDYyLjEyNy02MC42MzVzNjIuMDkxIDI2LjE1OSA2Mi4wOTEgNjAuNjM1YzAgMzQuNDc1LTI1Ljk4MSA2MC44ODMtNjIuMDkxIDYwLjg4My0zNi4xMTEgMC02Mi4xMjctMjYuNDc5LTYyLjEyNy02MC44ODNabTkzLjI5NyAwYzAtMTkuNTQ4LTEzLjExNS0zMy40MS0zMS4xNy0zMy40MXMtMzEuMjA2IDEzLjg2Mi0zMS4yMDYgMzMuNDFjMCAxOS41NDggMTMuMTE1IDMzLjQwOSAzMS4yMDYgMzMuNDA5czMxLjE3LTEzLjYxMyAzMS4xNy0zMy40MDlaTTg5NS42MjkgMTM5LjYyNGgtMzMuODcxdjQzLjI4OWMwIDE1LjEwNiA1LjQzOCAyMi4wMzYgMjEuMDA1IDIyLjAzNiAxLjQ5MyAwIDUuMjI1IDAgOS45MTYtLjI0OHYyNS40ODNhNjguMDEgNjguMDEgMCAwIDEtMTguMzA0IDIuNzM3Yy0yNi4yMyAwLTQ0LjA3MS0xNS44NTItNDQuMDcxLTQ1Ljc3OHYtNDcuNTE5aC0yMS4wMDZ2LTI0Ljg4aDUuMjI1YTE1Ljc4IDE1Ljc4IDAgMCAwIDE1Ljc4MS0xNS43OFY3NS4yOTNoMzEuNDU0djM5LjM0NWgzMy44NzF2MjQuOTg2Wk05MDUuMDQ3IDE3Mi43ODZjMC0zNC40MDUgMjUuOTgxLTYwLjYzNSA2Mi4wOTEtNjAuNjM1IDM2LjExMiAwIDYyLjEzMiAyNi4xNTkgNjIuMTMyIDYwLjYzNSAwIDM0LjQ3NS0yNS45OSA2MC44ODMtNjIuMTMyIDYwLjg4My0zNi4xNDYgMC02Mi4wOTEtMjYuNDc5LTYyLjA5MS02MC44ODNabTkzLjI5NyAwYzAtMTkuNTQ4LTEzLjExNS0zMy40MS0zMS4yMDYtMzMuNDEtMTguMDkgMC0zMS4xNyAxMy44NjItMzEuMTcgMzMuNDEgMCAxOS41NDggMTMuMTE1IDMzLjQwOSAzMS4xNyAzMy40MDkgMTguMDU2IDAgMzEuMjA2LTEzLjYxMyAzMS4yMDYtMzMuNDA5Wk0xMDQ1LjU4IDIzMC45MzJWMTY0Ljg2YzAtMzAuNjczIDE5LjU1LTUyLjcwOSA1NC40NS01Mi43MDkgMzQuOSAwIDU0LjIgMjIuMDM2IDU0LjIgNTIuNzA5djY2LjA3MmgtMzEuMTd2LTYzLjU4NGMwLTE3LjA5Ni03LjY4LTI3LjcyMy0yMy4wMy0yNy43MjMtMTUuMzUgMC0yMyAxMC42NjMtMjMgMjcuNzIzdjYzLjU4NGgtMzEuNDVaIi8+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJhIiB4MT0iMjYzLjI1NiIgeDI9IjE4My45MzMiIHkxPSIxNDUuNSIgeTI9Ii0xOTMuMTQxIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHN0b3Agc3RvcC1jb2xvcj0iI0UyREJGRiIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzZENEFGRiIvPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IGlkPSJiIiB4MT0iNDU0Ljc1NiIgeDI9IjE4NC4wNTgiIHkxPSI0NzEuNSIgeTI9Ii0xMDYuNzY5IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHN0b3Agb2Zmc2V0PSIuMjcxIiBzdG9wLWNvbG9yPSIjRTJEQkZGIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjNkQ0QUZGIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PC9zdmc+" alt="protonmail" height="25" width="75" hspace="10px"/>
 </a>
 </p>
