@@ -29,6 +29,12 @@
    <a href="https://www.anaconda.com/">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="35" height="35" hspace="10px"/>
    </a>
+     <a href="https://www.djangoproject.com/">
+   <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="svelte" height="35" hspace="10px"/>
+   </a>
+   <a href="https://nixos.org/">
+   <img src="https://nixos.org/logo/nixos-logo-only-hires.png" alt="svelte"  width="35" height="35" hspace="10px"/>
+   </a>
    <a href="https://svelte.dev/">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte"  width="35" height="35" hspace="10px"/>
    </a>
