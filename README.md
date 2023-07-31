@@ -53,37 +53,40 @@
    
 </p>
 
-<!-- koch_snowflake_01 -->
-<iframe src="https://giphy.com/embed/X9GtO5UtcD06nJHyKh" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/X9GtO5UtcD06nJHyKh"></a></p>
-
-<!-- koch_snowflake_02 -->
-<iframe src="https://giphy.com/embed/qoJ9sZu2Xui9a" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fractal-qoJ9sZu2Xui9a"></a></p>
-
-<!-- sierpiński_triangle -->
-<div class="tenor-gif-embed" data-postid="14562106" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/triangles-fractal-loop-gif-14562106"></a><a href="https://tenor.com/search/triangles-gifs"></a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-<!-- self_through_self-similarity -->
-<iframe src="https://giphy.com/embed/TiYqjwJaN3Wh2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/halftone-tavis-TiYqjwJaN3Wh2"></a></p>
-
-<!-- space -->
-<iframe src="https://giphy.com/embed/k5PMkjMRpVenWIjX3E" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-trippy-spiral-k5PMkjMRpVenWIjX3E"></a></p>
-
+<!--
 
 <!-- koch_snowflake_01 -->
-<img src="https://giphy.com/embed/X9GtO5UtcD06nJHyKh/giphy.gif"/>
+<!-- <iframe src="https://giphy.com/embed/X9GtO5UtcD06nJHyKh" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/X9GtO5UtcD06nJHyKh"></a></p>
 
 <!-- koch_snowflake_02 -->
-<img src="https://giphy.com/embed/qoJ9sZu2Xui9a/giphy.gif"/>
+<!--<iframe src="https://giphy.com/embed/qoJ9sZu2Xui9a" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fractal-qoJ9sZu2Xui9a"></a></p>
 
 <!-- sierpiński_triangle -->
-<img src="https://tenor.com/view/triangles-fractal-loop-gif-14562106"/>
+<!--<div class="tenor-gif-embed" data-postid="14562106" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/triangles-fractal-loop-gif-14562106"></a><a href="https://tenor.com/search/triangles-gifs"></a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <!-- self_through_self-similarity -->
-<img src="https://giphy.com/embed/TiYqjwJaN3Wh2/giphy.gif"/>
+<!--<iframe src="https://giphy.com/embed/TiYqjwJaN3Wh2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/halftone-tavis-TiYqjwJaN3Wh2"></a></p>
 
 <!-- space -->
-<img src="https://giphy.com/embed/k5PMkjMRpVenWIjX3E/giphy.gif"/>
+<!--<iframe src="https://giphy.com/embed/k5PMkjMRpVenWIjX3E" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-trippy-spiral-k5PMkjMRpVenWIjX3E"></a></p>
 
+
+<!-- koch_snowflake_01 -->
+<!--<img src="https://giphy.com/embed/X9GtO5UtcD06nJHyKh/giphy.gif"/>
+
+<!-- koch_snowflake_02 -->
+<!--<img src="https://giphy.com/embed/qoJ9sZu2Xui9a/giphy.gif"/>
+
+<!-- sierpiński_triangle -->
+<!--<img src="https://tenor.com/view/triangles-fractal-loop-gif-14562106"/>
+
+<!-- self_through_self-similarity -->
+<!--<img src="https://giphy.com/embed/TiYqjwJaN3Wh2/giphy.gif"/>
+
+<!-- space -->
+<!--<img src="https://giphy.com/embed/k5PMkjMRpVenWIjX3E/giphy.gif"/>
+
+-->
 
 
 ## **how to reach me**
