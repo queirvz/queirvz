@@ -1,11 +1,12 @@
-# **current interests**
+<br></br>
 
-- Digital economies
-- OSINT
-- Statistics
-- Data science
+# **`contributions powered by`**
 
-## **contributions powered by**
+<br></br>
+
+---
+
+<br></br>
 
 <p align="left">
    <a href="https://ohmyz.sh/">
@@ -53,6 +54,9 @@
    
 </p>
 
+
+<br></br>
+
 <!--
 
 <!-- koch_snowflake_01 -->
@@ -69,7 +73,6 @@
 
 <!-- space -->
 <!--<iframe src="https://giphy.com/embed/k5PMkjMRpVenWIjX3E" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-trippy-spiral-k5PMkjMRpVenWIjX3E"></a></p>
-
 
 <!-- koch_snowflake_01 -->
 <!--<img src="https://giphy.com/embed/X9GtO5UtcD06nJHyKh/giphy.gif"/>
@@ -89,10 +92,27 @@
 -->
 
 
-## **how to reach me**
+# **`how to reach me`**
+
+
+<br></br>
 
 <p align="left">
 <a href="mailto:queirvz@protonmail.ch?subject=reader@github.com:%20">
 <img src="https://proton.me/static/fc5b1e8b92dd09734ca7c9d91e89db93/proton-mail-badge.svg" alt="protonmail" height="30" hspace="10px"/>
 </a>
 </p>
+
+<br></br>
+
+# **`[@Headline](https://headline.com/portfolio)`**
+
+<br></br>
+<br></br>
+<center>
+<a href="https://headline.com/portfolio" target="_blank">
+<img src="https://storage.googleapis.com/tally-block-assets/e065939fe6f8b2c07fc610168352cb7f" alt="Headline" width="100" align="middle" class="center" />
+</a>
+</center>
+<br></br>
+
