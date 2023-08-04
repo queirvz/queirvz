@@ -4,9 +4,6 @@
 
 <br></br>
 
----
-
-<br></br>
 
 <p align="left">
    <a href="https://ohmyz.sh/">
@@ -105,9 +102,8 @@
 
 <br></br>
 
-# **`[@Headline](https://headline.com/portfolio)`**
+# **[`@Headline`](https://headline.com/portfolio)**
 
-<br></br>
 <br></br>
 <center>
 <a href="https://headline.com/portfolio" target="_blank">
@@ -115,4 +111,3 @@
 </a>
 </center>
 <br></br>
-
