@@ -40,7 +40,7 @@
 <br></br>
 <br></br>
 
-> A Venture Capital Firm for Technology Founders. <p><a href="mailto:guilherme@headline.com?subject=reader@github.com:%20" target="_blank"><img src="https://storage.googleapis.com/tally-block-assets/e065939fe6f8b2c07fc610168352cb7f" alt="headline" width="20" hspace="1px"></a></p>
+> [A Venture Capital Firm for Technology Founders.](https://deepdive.headline.com/) <p><a href="mailto:guilherme@headline.com?subject=reader@github.com:%20" target="_blank"><img src="https://storage.googleapis.com/tally-block-assets/e065939fe6f8b2c07fc610168352cb7f" alt="headline" width="20" hspace="1px"></a></p>
 
 <br></br>
 
