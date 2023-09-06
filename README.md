@@ -1,9 +1,52 @@
+<!-- koch_snowflake_01 -->
+<!-- <iframe src="https://giphy.com/embed/X9GtO5UtcD06nJHyKh" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/X9GtO5UtcD06nJHyKh"></a></p>
+
+<!-- koch_snowflake_02 -->
+<!--<iframe src="https://giphy.com/embed/qoJ9sZu2Xui9a" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fractal-qoJ9sZu2Xui9a"></a></p>
+
+<!-- sierpiński_triangle -->
+<!--<div class="tenor-gif-embed" data-postid="14562106" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/triangles-fractal-loop-gif-14562106"></a><a href="https://tenor.com/search/triangles-gifs"></a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<!-- self_through_self-similarity -->
+<!--<iframe src="https://giphy.com/embed/TiYqjwJaN3Wh2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/halftone-tavis-TiYqjwJaN3Wh2"></a></p>
+
+<!-- space -->
+<!--<iframe src="https://giphy.com/embed/k5PMkjMRpVenWIjX3E" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-trippy-spiral-k5PMkjMRpVenWIjX3E"></a></p>
+
+<!-- koch_snowflake_01 -->
+<!--<img src="https://giphy.com/embed/X9GtO5UtcD06nJHyKh/giphy.gif"/>
+
+<!-- koch_snowflake_02 -->
+<!--<img src="https://giphy.com/embed/qoJ9sZu2Xui9a/giphy.gif"/>
+
+<!-- sierpiński_triangle -->
+<!--<img src="https://tenor.com/view/triangles-fractal-loop-gif-14562106"/>
+
+<!-- self_through_self-similarity -->
+<!--<img src="https://giphy.com/embed/TiYqjwJaN3Wh2/giphy.gif"/>
+
+<!-- space -->
+<!--<img src="https://giphy.com/embed/k5PMkjMRpVenWIjX3E/giphy.gif"/>
+
+-->
+
+<center>
+
+<br></br>
+<br></br>
+<a href="https://headline.com/portfolio" target="_blank">
+<img src="https://headline.cdn.prismic.io/headline/e992eefe-0423-481e-bdbf-eaab9e6f2779_logo-wordmark.svg" alt="Headline" width="100%" align="middle" class="center" />
+</a>
+<br></br>
 <br></br>
 
-# **`contributions powered by`**
+> A Venture Capital Firm for Technology Founders. <p><a href="mailto:guilherme@headline.com?subject=reader@github.com:%20" target="_blank"><img src="https://storage.googleapis.com/tally-block-assets/e065939fe6f8b2c07fc610168352cb7f" alt="headline" width="20" hspace="1px"></a></p>
 
 <br></br>
 
+# **FOSS contributions powered by**
+
+<br></br>
 
 <p align="left">
    <a href="https://ohmyz.sh/">
@@ -50,64 +93,5 @@
    </a>
    
 </p>
-
-
 <br></br>
-
-<!--
-
-<!-- koch_snowflake_01 -->
-<!-- <iframe src="https://giphy.com/embed/X9GtO5UtcD06nJHyKh" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/X9GtO5UtcD06nJHyKh"></a></p>
-
-<!-- koch_snowflake_02 -->
-<!--<iframe src="https://giphy.com/embed/qoJ9sZu2Xui9a" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fractal-qoJ9sZu2Xui9a"></a></p>
-
-<!-- sierpiński_triangle -->
-<!--<div class="tenor-gif-embed" data-postid="14562106" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/triangles-fractal-loop-gif-14562106"></a><a href="https://tenor.com/search/triangles-gifs"></a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-<!-- self_through_self-similarity -->
-<!--<iframe src="https://giphy.com/embed/TiYqjwJaN3Wh2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/halftone-tavis-TiYqjwJaN3Wh2"></a></p>
-
-<!-- space -->
-<!--<iframe src="https://giphy.com/embed/k5PMkjMRpVenWIjX3E" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-trippy-spiral-k5PMkjMRpVenWIjX3E"></a></p>
-
-<!-- koch_snowflake_01 -->
-<!--<img src="https://giphy.com/embed/X9GtO5UtcD06nJHyKh/giphy.gif"/>
-
-<!-- koch_snowflake_02 -->
-<!--<img src="https://giphy.com/embed/qoJ9sZu2Xui9a/giphy.gif"/>
-
-<!-- sierpiński_triangle -->
-<!--<img src="https://tenor.com/view/triangles-fractal-loop-gif-14562106"/>
-
-<!-- self_through_self-similarity -->
-<!--<img src="https://giphy.com/embed/TiYqjwJaN3Wh2/giphy.gif"/>
-
-<!-- space -->
-<!--<img src="https://giphy.com/embed/k5PMkjMRpVenWIjX3E/giphy.gif"/>
-
--->
-
-
-# **`how to reach me`**
-
-
-<br></br>
-
-<p align="left">
-<a href="mailto:queirvz@protonmail.ch?subject=reader@github.com:%20">
-<img src="https://proton.me/static/fc5b1e8b92dd09734ca7c9d91e89db93/proton-mail-badge.svg" alt="protonmail" height="30" hspace="10px"/>
-</a>
-</p>
-
-<br></br>
-
-# **[`@Headline`](https://headline.com/portfolio)**
-
-<br></br>
-<center>
-<a href="https://headline.com/portfolio" target="_blank">
-<img src="https://storage.googleapis.com/tally-block-assets/e065939fe6f8b2c07fc610168352cb7f" alt="Headline" width="100" align="middle" class="center" />
-</a>
 </center>
-<br></br>
