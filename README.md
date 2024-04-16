@@ -2,7 +2,7 @@
 <br></br>
 <br></br>
 <a href="https://goinfinite.net" target="_blank">
-<img src="https://goinfinite.net/wp-content/uploads/2022/03/infinite-logo-white.png" alt="goinfinite.net" width="20%" align="middle" class="center" />
+<img src="https://goinfinite.net/wp-content/uploads/2022/03/infinite-logo-white.png" alt="goinfinite.net" width="60%" align="middle" class="center" />
 </a>
 <br></br>
 <br></br>
@@ -10,13 +10,13 @@
 <br></br>
 <br></br>
 <a href="https://speedia.net" target="_blank">
-<img src="https://speedia.net/wp-content/uploads/2023/08/speedia-logo.svg" alt="speedia.net" width="20%" align="middle" class="center" />
+<img src="https://speedia.net/wp-content/uploads/2023/08/speedia-logo.svg" alt="speedia.net" width="60%" align="middle" class="center" />
 </a>
 <br></br>
 <br></br>
-</center>
 
-> [Crafting Effortless Tomorrows](https://speedia.net/) <p><a href="mailto:guilherme@goinfinite.net?subject=reader@github.com:%20" target="_blank"><img src="https://speedia.net/wp-content/uploads/2024/02/control-logo.svg" alt="speedia.net/control" width="40" hspace="1px"></a></p>
+
+> [Crafting Effortless Tomorrows](https://speedia.net/) <p><a href="mailto:guilherme@goinfinite.net?subject=reader@github.com:%20" target="_blank"><img src="https://speedia.net/wp-content/uploads/2024/02/control-logo.svg" alt="speedia.net/control" width="100" hspace="1px"></a></p>
 
 <br></br>
 
@@ -69,9 +69,3 @@
 </p>
 <br></br>
 </center>
-
-<!-- koch_snowflake -->
-<iframe src="https://i.stack.imgur.com/bhXX1.gif" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/X9GtO5UtcD06nJHyKh"></a></p>
-
-<!-- self_through_self-similarity -->
-<!-- <iframe src="https://giphy.com/embed/TiYqjwJaN3Wh2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/halftone-tavis-TiYqjwJaN3Wh2"></a></p> -->
