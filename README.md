@@ -1,22 +1,22 @@
 <center>
 <br></br>
 <br></br>
-<a href="https://goinfinite.net" target="_blank">
-<img src="https://goinfinite.net/wp-content/uploads/2022/03/infinite-logo-white.png" alt="goinfinite.net" width="60%" align="middle" class="center" />
+<a href="https://" target="_blank">
+<img src="https://" alt="" width="60%" align="middle" class="center" />
 </a>
 <br></br>
 <br></br>
 
 <br></br>
 <br></br>
-<a href="https://speedia.net" target="_blank">
-<img src="https://speedia.net/wp-content/uploads/2023/08/speedia-logo.svg" alt="speedia.net" width="60%" align="middle" class="center" />
+<a href="" target="_blank">
+<img src="" alt="" width="60%" align="middle" class="center" />
 </a>
 <br></br>
 <br></br>
 
 
-> [Crafting Effortless Tomorrows](https://speedia.net/) <p><a href="mailto:guilherme@goinfinite.net?subject=reader@github.com:%20" target="_blank"><img src="https://speedia.net/wp-content/uploads/2024/02/control-logo.svg" alt="speedia.net/control" width="100" hspace="1px"></a></p>
+> [_](https://) <p><a href="mailto:mail?subject=reader@github.com:%20" target="_blank"><img src="" alt="" width="100" hspace="1px"></a></p>
 
 <br></br>
 
