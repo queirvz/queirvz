@@ -1,26 +1,6 @@
-<center>
-<br></br>
-<br></br>
-<a href="https://" target="_blank">
-<img src="https://" alt="" width="60%" align="middle" class="center" />
-</a>
-<br></br>
-<br></br>
+# [`ACC.Enterprises`](https://acc.enterprises)
 
-<br></br>
-<br></br>
-<a href="" target="_blank">
-<img src="" alt="" width="60%" align="middle" class="center" />
-</a>
-<br></br>
-<br></br>
-
-
-> [_](https://) <p><a href="mailto:mail?subject=reader@github.com:%20" target="_blank"><img src="" alt="" width="100" hspace="1px"></a></p>
-
-<br></br>
-
-# **Contributions powered by**
+# Contributions powered by
 
 <br></br>
 
